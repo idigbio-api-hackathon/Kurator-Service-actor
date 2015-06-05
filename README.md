@@ -1,4 +1,4 @@
-# Kurator-Service-actor
+# Kurator-Service-iDigBio
 A specialized Kurator workflow that interacts with iDigBio API with embedded server that accepts remote requests
 
 A data reader that takes parameters and reads data from iDigBio search API. An embedded jetty server will be started once the workflow is invoked, which will listen to requests at a ceratin port, process the request and push the parameters to the reader that reads data from iDigBio search API. The resulting JSON string will be returned to the user and the user can choose to render it as a spreadsheet.
