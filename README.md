@@ -14,6 +14,6 @@ List of parameters for Kuration workflow:
 
 Exmaple: "some_host"/?limit=5&authority=GBIF&workflow=DwCa
 
-This repository only contains the code for this actor. Please refer to FilteredPush/Kurator repository (https://sourceforge.net/projects/filteredpush/) for the complete code set and more information about data curation workflows.
+This repository only contains the code for the workflow file. Please refer to FilteredPush/Kurator repository (https://sourceforge.net/projects/filteredpush/) for the complete code set and more information about data curation workflows.
 
 Note: the termination issue still needs to be solved
